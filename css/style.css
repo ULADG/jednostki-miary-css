@@ -1,4 +1,4 @@
-html{
+html {
     font-size: 20px;
 }
 
@@ -7,13 +7,12 @@ html{
 }
 
 #container > div {
-    background-color: rgba (0, 255, 255, 0,6);
-        
+    background-color: rgba(0, 255, 255, 0.6);   
     margin-bottom: 15px;
 }
 #pixele {
     width: 400px;
 }
 #em {
-    widht: 20em;
+    width: 20em;
 }
